@@ -4,7 +4,7 @@
 
 BuddyBot is a simple AI chatbot developed using Python, NLTK, Regular Expressions (Regex), and Tkinter. The chatbot can understand predefined user queries and respond with relevant answers related to Python, NLP (Natural Language Processing), Machine Learning, Deep Learning, Transformers, and chatbot development.
 
-The project is designed for beginners who want to learn the fundamentals of chatbot development and Natural Language Processing.
+The project is designed for beginners who want to learn the fundamentals of chatbot development and Natural Language Processing (NLP).
 
 ---
 
